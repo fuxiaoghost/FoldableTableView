@@ -14,6 +14,8 @@
 		C991F8121A6FF6C700647E33 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C991F8111A6FF6C700647E33 /* Images.xcassets */; };
 		C991F8151A6FF6C700647E33 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C991F8131A6FF6C700647E33 /* LaunchScreen.xib */; };
 		C991F8211A6FF6C700647E33 /* FoldableTableViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C991F8201A6FF6C700647E33 /* FoldableTableViewTests.m */; };
+		C991F82C1A6FFB3B00647E33 /* RoomGroupTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = C991F82B1A6FFB3B00647E33 /* RoomGroupTableViewCell.m */; };
+		C991F82F1A6FFB4D00647E33 /* RoomTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = C991F82E1A6FFB4D00647E33 /* RoomTableViewCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +42,10 @@
 		C991F81A1A6FF6C700647E33 /* FoldableTableViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FoldableTableViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C991F81F1A6FF6C700647E33 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C991F8201A6FF6C700647E33 /* FoldableTableViewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FoldableTableViewTests.m; sourceTree = "<group>"; };
+		C991F82A1A6FFB3B00647E33 /* RoomGroupTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RoomGroupTableViewCell.h; sourceTree = "<group>"; };
+		C991F82B1A6FFB3B00647E33 /* RoomGroupTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RoomGroupTableViewCell.m; sourceTree = "<group>"; };
+		C991F82D1A6FFB4D00647E33 /* RoomTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RoomTableViewCell.h; sourceTree = "<group>"; };
+		C991F82E1A6FFB4D00647E33 /* RoomTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RoomTableViewCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +87,10 @@
 		C991F8031A6FF6C700647E33 /* FoldableTableView */ = {
 			isa = PBXGroup;
 			children = (
+				C991F82A1A6FFB3B00647E33 /* RoomGroupTableViewCell.h */,
+				C991F82B1A6FFB3B00647E33 /* RoomGroupTableViewCell.m */,
+				C991F82D1A6FFB4D00647E33 /* RoomTableViewCell.h */,
+				C991F82E1A6FFB4D00647E33 /* RoomTableViewCell.m */,
 				C991F8081A6FF6C700647E33 /* AppDelegate.h */,
 				C991F8091A6FF6C700647E33 /* AppDelegate.m */,
 				C991F80B1A6FF6C700647E33 /* ViewController.h */,
@@ -219,9 +229,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C991F82C1A6FFB3B00647E33 /* RoomGroupTableViewCell.m in Sources */,
 				C991F80D1A6FF6C700647E33 /* ViewController.m in Sources */,
 				C991F80A1A6FF6C700647E33 /* AppDelegate.m in Sources */,
 				C991F8071A6FF6C700647E33 /* main.m in Sources */,
+				C991F82F1A6FFB4D00647E33 /* RoomTableViewCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

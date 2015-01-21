@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A6208EF2-1383-40AF-BD44-0E32B315FC31</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FoldableTableView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0237944A77DB0A54D80E55B5E49AFE7671AD08A1</key>
+		<string>https://github.com/fuxiaoghost/FoldableTableView.git</string>
+		<key>08498e9a-1273-eb38-4888-16dec3e2a872++505</key>
+		<string>https://dawn-together.googlecode.com/svn/trunk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FoldableTableView/FoldableTableView.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0237944A77DB0A54D80E55B5E49AFE7671AD08A1</key>
+		<string>../../..</string>
+		<key>08498e9a-1273-eb38-4888-16dec3e2a872++505</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>08498e9a-1273-eb38-4888-16dec3e2a872++505</key>
+		<string>https://dawn-together.googlecode.com/svn</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/fuxiaoghost/FoldableTableView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0237944A77DB0A54D80E55B5E49AFE7671AD08A1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>08498e9a-1273-eb38-4888-16dec3e2a872++505</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0237944A77DB0A54D80E55B5E49AFE7671AD08A1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FoldableTableView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
